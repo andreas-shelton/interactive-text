@@ -2,9 +2,9 @@ let rainbow1, rainbow2, robotoFont;
 let textMask;
 
 function preload() {
-  robotoFont = loadFont('/font/RobotoSerif-Regular.ttf');
-  rainbow1 = loadImage('/img/Rainbow Gradient 2.png');
-  rainbow2 = loadImage('/img/Rainbow Gradient 5.png');
+  robotoFont = loadFont('font/RobotoSerif-Regular.ttf');
+  rainbow1 = loadImage('img/Rainbow Gradient 2.png');
+  rainbow2 = loadImage('img/Rainbow Gradient 5.png');
 }
 
 function setup() {

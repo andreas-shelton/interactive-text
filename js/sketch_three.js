@@ -1,7 +1,7 @@
 let robotoFont;
 
 function preload() {
-  robotoFont = loadFont('/font/RobotoSerif-Regular.ttf');
+  robotoFont = loadFont('font/RobotoSerif-Regular.ttf');
 }
 
 function setup() {

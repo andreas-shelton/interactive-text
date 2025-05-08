@@ -16,7 +16,7 @@ function setup() {
 }
 
 function preload(){
-  loadFont('/font/RobotoSerif-Regular.ttf');
+  loadFont('font/RobotoSerif-Regular.ttf');
 }
 
 /**
