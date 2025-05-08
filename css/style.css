@@ -31,3 +31,22 @@ canvas {
 
 }
 
+#pagefour{
+  width:25%;
+  height:7%;
+  position: absolute;
+  top: 37%;
+  left: 16%;
+
+  border: 2px solid black;
+}
+
+#pagefive{
+  width:25%;
+  height:7%;
+  position: absolute;
+  top: 37%;
+  left: 16%;
+
+  border: 2px solid black;
+}
